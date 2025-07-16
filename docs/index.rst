@@ -34,17 +34,16 @@ Updating your Renault's GPS system guarantees:
 🔧 Renault GPS Types and Update Methods
 =======================================
 
-Here’s a chart of Renault GPS units and their update tools:
++--------------------+-------------------------------+------------------------+----------------------+
+| **GPS System**     | **Update Tool**               | **Connection Method**  | **Update Frequency** |
++====================+===============================+========================+======================+
+| `R-Link / R-Link 2 <https://www.renault-multimedia.com/gbr-en/r-link/toolbox/>`_        | `R-Link Toolbox <https://www.renault-multimedia.com/gbr-en/r-link/toolbox/>`_     | `USB & Internet <https://www.renault-multimedia.com/>`_         | `Every 3 months <https://www.renault-multimedia.com/>`_       |
++--------------------+-------------------------------+------------------------+----------------------+
+| `Media Nav / Evo <https://www.naviextras.com/shop/portal/downloads>`_        | `Naviextras Toolbox <https://www.naviextras.com/shop/portal/downloads>`_ | `USB & Naviextras.com <https://www.naviextras.com/>`_   | `Every 6 months <https://www.naviextras.com/>`_       |
++--------------------+-------------------------------+------------------------+----------------------+
+| `Carminat TomTom <https://www.tomtom.com/en_gb/mydrive/connect/>`_         | `TomTom HOME <https://www.tomtom.com/en_gb/mydrive/connect/>`_        | `SD Card & Internet <https://www.tomtom.com/>`_     | `Every 3–6 months <https://www.tomtom.com/>`_     |
++--------------------+-------------------------------+------------------------+----------------------+
 
-+--------------------+--------------------+------------------------+----------------------+
-| **GPS System**     | **Update Tool**    | **Connection Method**  | **Update Frequency** |
-+====================+====================+========================+======================+
-| R-Link / R-Link 2  | R-Link Toolbox     | USB & Internet         | Every 3 months       |
-+--------------------+--------------------+------------------------+----------------------+
-| Media Nav / Evo    | Naviextras Toolbox | USB & Naviextras.com   | Every 6 months       |
-+--------------------+--------------------+------------------------+----------------------+
-| Carminat TomTom    | TomTom HOME        | SD Card & Internet     | Every 3-6 months     |
-+--------------------+--------------------+------------------------+----------------------+
 
 .. important::
    Always use the official software provided by Renault or Naviextras for accurate and safe updates.
