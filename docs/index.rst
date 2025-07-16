@@ -1,11 +1,15 @@
 How to Update Renault GPS Map (2025): A Complete Guide
 ===========================================
+
 .. raw:: html
- <div style="margin-top: 20px; text-align: center;">
-  <a href="https://navisolve.com/" target="_blank" style="background-color:#007bff; color:white; padding:12px 24px; text-decoration:none; font-size:16px; border-radius:6px; display:inline-block;">
-    Get Update
-  </a>
- </div>
+
+   <div style="margin-top: 20px; text-align: center;">
+     <a href="https://navisolve.com/" target="_blank" style="background-color:#28a745; color:white; padding:12px 24px; text-decoration:none; font-size:16px; border-radius:6px; display:inline-block;">
+       Get Support
+     </a>
+   </div>
+
+ 
 
 Keeping your Renault GPS map up-to-date ensures accurate navigation, safer driving, and optimal fuel efficiency. Whether you use **R-Link**, **Media Nav**, or **Carminat TomTom**, this guide will walk you through the full process. 🧭
 
