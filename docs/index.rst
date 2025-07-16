@@ -3,6 +3,24 @@ How to Update Renault GPS Map (2025): A Complete Guide
 
 .. raw:: html
 
+   <table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; text-align: center;">
+     <tr>
+       <th>Column 1</th>
+       <th>Column 2</th>
+     </tr>
+     <tr>
+       <td>Row 1, Cell 1</td>
+       <td>Row 1, Cell 2</td>
+     </tr>
+     <tr>
+       <td>Row 2, Cell 1</td>
+       <td>Row 2, Cell 2</td>
+     </tr>
+   </table>
+
+
+.. raw:: html
+
    <div style="margin-top: 20px; text-align: center;">
      <a href="https://navisolve.com/" target="_blank" style="background-color:#28a745; color:white; padding:12px 24px; text-decoration:none; font-size:16px; border-radius:6px; display:inline-block;">
        Get Support
@@ -34,15 +52,53 @@ Updating your Renault's GPS system guarantees:
 🔧 Renault GPS Types and Update Methods
 =======================================
 
-+--------------------+-------------------------------+------------------------+----------------------+
-| **GPS System**     | **Update Tool**               | **Connection Method**  | **Update Frequency** |
-+====================+===============================+========================+======================+
-| `R-Link / R-Link 2 <https://www.renault-multimedia.com/gbr-en/r-link/toolbox/>`_        | `R-Link Toolbox <https://www.renault-multimedia.com/gbr-en/r-link/toolbox/>`_     | `USB & Internet <https://www.renault-multimedia.com/>`_         | `Every 3 months <https://www.renault-multimedia.com/>`_       |
-+--------------------+-------------------------------+------------------------+----------------------+
-| `Media Nav / Evo <https://www.naviextras.com/shop/portal/downloads>`_        | `Naviextras Toolbox <https://www.naviextras.com/shop/portal/downloads>`_ | `USB & Naviextras.com <https://www.naviextras.com/>`_   | `Every 6 months <https://www.naviextras.com/>`_       |
-+--------------------+-------------------------------+------------------------+----------------------+
-| `Carminat TomTom <https://www.tomtom.com/en_gb/mydrive/connect/>`_         | `TomTom HOME <https://www.tomtom.com/en_gb/mydrive/connect/>`_        | `SD Card & Internet <https://www.tomtom.com/>`_     | `Every 3–6 months <https://www.tomtom.com/>`_     |
-+--------------------+-------------------------------+------------------------+----------------------+
+.. raw:: html
+
+   <table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; text-align: center;">
+     <tr>
+       <th>Column 1</th>
+       <th>Column 2</th>
+     </tr>
+     <tr>
+       <td>Row 1, Cell 1</td>
+       <td>Row 1, Cell 2</td>
+     </tr>
+     <tr>
+       <td>Row 2, Cell 1</td>
+       <td>Row 2, Cell 2</td>
+     </tr>
+   </table>
+
+   <table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; text-align: center; width: 100%;">
+     <thead>
+       <tr>
+         <th><strong>GPS Name</strong></th>
+         <th><strong>Update Tool</strong></th>
+         <th><strong>Connection Method</strong></th>
+         <th><strong>Update Frequency</strong></th>
+       </tr>
+     </thead>
+     <tbody>
+       <tr>
+         <td><a href="https://www.renault-multimedia.com/gbr-en/r-link/toolbox/" target="_blank">R-Link / R-Link 2</td>
+         <td>R-Link Toolbox</a></td>
+         <td>USB & Internet</td>
+         <td>Every 3 months<td>
+       </tr>
+       <tr>
+         <td><a href="https://www.naviextras.com/shop/portal/downloads" target="_blank">Media Nav / Evo</a></td>
+         <td><a href="https://www.naviextras.com/shop/portal/downloads" target="_blank">Naviextras Toolbox</a></td>
+         <td><a href="https://www.naviextras.com/" target="_blank">USB & Naviextras.com</a></td>
+         <td><a href="https://www.naviextras.com/" target="_blank">Every 6 months</a></td>
+       </tr>
+       <tr>
+         <td><a href="https://www.tomtom.com/en_gb/mydrive/connect/" target="_blank">Carminat TomTom</a></td>
+         <td><a href="https://www.tomtom.com/en_gb/mydrive/connect/" target="_blank">TomTom HOME</a></td>
+         <td><a href="https://www.tomtom.com/" target="_blank">SD Card & Internet</a></td>
+         <td><a href="https://www.tomtom.com/" target="_blank">Every 3–6 months</a></td>
+       </tr>
+     </tbody>
+   </table>
 
 
 .. important::
